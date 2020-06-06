@@ -1,2 +1,2 @@
 # github-tes
-uji coba bekerja dengan github
+uji coba github
