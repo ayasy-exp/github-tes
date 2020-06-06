@@ -1,2 +1,2 @@
 # github-tes
-latihan github dengan file html sederhana
+uji coba github dengan file html sederhana
